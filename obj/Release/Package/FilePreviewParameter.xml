@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/BYODManager" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^\\\\10\.5\.129\.3\\d\$\\7131_DATA\\Utilities\\Source\ Control\\BYOD_manager\\BYOD_manager\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^\\\\10\.5\.129\.3\\d\$\\7131_DATA\\Utilities\\Source\ Control\\BYOD_manager\\BYOD_manager\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-BYOD_manager-20151118081523.mdf;Initial Catalog=aspnet-BYOD_manager-20151118081523;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="\\\\10\.5\.129\.3\\d\$\\7131_DATA\\Utilities\\Source\ Control\\BYOD_manager\\BYOD_manager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="BYODEntities-Web.config Connection String" description="BYODEntities Connection String used in web.config by the application to access the database." value="metadata=res://*/Models.BYOD.csdl|res://*/Models.BYOD.ssdl|res://*/Models.BYOD.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=eqmtn7131003;initial catalog=BYOD;persist security info=True;user id=NSSCF;password=Springfield.3;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="\\\\10\.5\.129\.3\\d\$\\7131_DATA\\Utilities\\Source\ Control\\BYOD_manager\\BYOD_manager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BYODEntities']/@connectionString" />
+  </parameter>
+  <parameter name="BYODEntities1-Web.config Connection String" description="BYODEntities1 Connection String used in web.config by the application to access the database." value="metadata=res://*/Models.BYOD.csdl|res://*/Models.BYOD.ssdl|res://*/Models.BYOD.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=eqmtn7131003;initial catalog=BYOD;persist security info=True;user id=NSSCF;password=Springfield.3;multipleactiveresultsets=True;application name=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="\\\\10\.5\.129\.3\\d\$\\7131_DATA\\Utilities\\Source\ Control\\BYOD_manager\\BYOD_manager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BYODEntities1']/@connectionString" />
+  </parameter>
+</parameters>

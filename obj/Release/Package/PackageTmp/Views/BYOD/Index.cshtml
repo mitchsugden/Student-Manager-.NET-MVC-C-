@@ -1,0 +1,116 @@
+﻿@model IEnumerable<BYOD_manager.Models.BYOD>
+@using BYOD_manager.Helper
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<script type="text/javascript">
+//i'm using jquery ready event which will call the javascript chunk after the page has completed loading
+    function fileCreated() {
+        if("@ViewBag.Message" != ""){
+            alert("@ViewBag.Message");
+            }
+}
+</script>
+
+<script type="text/javascript">fileCreated();</script>
+
+<div class="jumbotron">
+    <h1 align="center">SCSHS BYOD Manager</h1>
+    <p class="lead"></p>
+</div>
+    @using (Html.BeginForm())
+    {
+        <fieldset>
+            <table cellpadding="10">
+                <tr>
+                    <td>MIS ID</td>
+                    <td>@Html.TextBox("MISID") </td>
+                </tr>
+
+                <tr><td>First Name  </td> <td>@Html.TextBox("firstName")</td></tr>
+
+                <tr><td>Last Name  </td> <td>@Html.TextBox("lastName")</td></tr>
+
+                <tr><td>Year Level  </td> <td>@Html.TextBox("yearLevel")</td></tr>
+            </table>
+                <input type="submit" value="Search" />
+                <button value="Search" onclick="reset">Reset</button>
+        </fieldset>
+
+    <script>
+    $(":reset").click(function(){
+   window.location.href=window.location.href;
+    });
+    </script>
+    }
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("MIS ID", "Index", new { sortOrder = "MISID_desc" })
+        </th>
+        <th>
+           @Html.ActionLink("First Name", "Index", new { sortOrder = "fisrtName_desc" })
+        </th>
+        <th>
+           @Html.ActionLink("Last Name", "Index", new { sortOrder = "lastName_desc" })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.YearLevel)
+        </th>
+        <th>
+            @Html.ActionLink("Approved", "Index", new { sortOrder = "approved_desc" })
+        </th>
+        <th></th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+    @Html.HiddenFor(modelItem => item.EQID)
+    <td>
+        @Html.DisplayFor(modelItem => item.MISID)
+    </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Lname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.YearLevel)
+        </td>
+        <td>
+           @if (item.Approved)
+           {
+            <img src="~/Content/themes/base/images/tick.png" alt="" height=10 width=10>
+           }
+           else
+           {
+            <img src="~/Content/themes/base/images/line.png" alt="" height=10 width=10>
+           }
+        </td>
+        <td>
+            @if (item.Approved)
+            {
+                @Html.ActionLink("Unapprove", "Change", new { id = item.EQID })
+            }
+            @if (!item.Approved) {
+                @Html.ActionLink("Approve", "Change", new { id = item.EQID })
+            }
+</td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.EQID }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.EQID })
+        </td>
+    </tr>
+    
+}
+</table>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap")
+}

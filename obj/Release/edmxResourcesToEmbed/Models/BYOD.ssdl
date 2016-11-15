@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BYODModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BYOD">
+    <Key>
+      <PropertyRef Name="EQID" />
+    </Key>
+    <Property Name="EQID" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MISID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Fname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Lname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="YearLevel" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Approved" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="BYODModelStoreContainer">
+    <EntitySet Name="BYOD" EntityType="Self.BYOD" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

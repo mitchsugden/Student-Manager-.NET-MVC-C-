@@ -1,0 +1,147 @@
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\csc.exe
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\System.Collections.Immutable.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\System.Reflection.Metadata.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\vbc.exe
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\VBCSCompiler.exe
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\roslyn\VBCSCompiler.exe.config
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\BYOD_manager.dll.config
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\BYOD_manager.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\BYOD_manager.pdb
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Antlr3.Runtime.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\EntityFramework.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\EntityFramework.SqlServer.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.Core.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.Owin.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Cookies.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Facebook.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Google.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.OAuth.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Twitter.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Web.Infrastructure.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Newtonsoft.Json.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Owin.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.Helpers.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.Mvc.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.Optimization.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.Razor.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.Deployment.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.Razor.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\WebGrease.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.Helpers.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.Mvc.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.Optimization.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.Razor.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.Deployment.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.Razor.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Antlr3.Runtime.pdb
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Newtonsoft.Json.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\EntityFramework.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\EntityFramework.SqlServer.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.Core.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.Owin.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Facebook.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Cookies.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.OAuth.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Google.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Twitter.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\obj\Debug\BYOD_manager.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\obj\Debug\BYOD_manager.pdb
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\PagedList.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\PagedList.Mvc.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\PagedList.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\bin\PagedList.Mvc.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\BYOD_manager\BYOD_manager\BYOD_manager\obj\Debug\BYOD_manager.csprojResolveAssemblyReference.cache
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\obj\Debug\BYOD_manager.csprojResolveAssemblyReference.cache
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\obj\Debug\BYOD_manager.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\obj\Debug\BYOD_manager.pdb
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\csc.exe
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\System.Collections.Immutable.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\System.Reflection.Metadata.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\vbc.exe
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\VBCSCompiler.exe
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\roslyn\VBCSCompiler.exe.config
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\BYOD_manager.dll.config
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\BYOD_manager.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\BYOD_manager.pdb
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Antlr3.Runtime.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\EntityFramework.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\EntityFramework.SqlServer.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.Core.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.Owin.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Cookies.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Facebook.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Google.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.OAuth.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Twitter.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Web.Infrastructure.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Newtonsoft.Json.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Owin.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\PagedList.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\PagedList.Mvc.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.Helpers.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.Mvc.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.Optimization.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.Razor.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.Deployment.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.Razor.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\WebGrease.dll
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\PagedList.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\PagedList.Mvc.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.Helpers.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.Mvc.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.Optimization.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.Razor.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.Deployment.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\System.Web.WebPages.Razor.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Antlr3.Runtime.pdb
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Newtonsoft.Json.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\EntityFramework.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\EntityFramework.SqlServer.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.Core.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.Owin.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Facebook.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Cookies.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.OAuth.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Google.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.Twitter.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\10.5.129.3\d$\7131_DATA\Utilities\Source Control\BYOD_manager\BYOD_manager\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
